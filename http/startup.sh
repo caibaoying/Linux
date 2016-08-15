@@ -1,2 +1,2 @@
 #!/bin/bash
-./Server 0 8080
+./Server 0 9999
